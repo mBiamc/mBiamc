@@ -1,6 +1,6 @@
 # Hi, I'm Beatriz 👋
 
-**Data storyteller.** Somewhere in the noise, there’s always a story. I see every dataset as fragments of people, and I turn them into stories anyone can feel.
+I'm a **data storyteller**, which means I spend my days looking for the people behind the numbers. Somewhere in all that noise there's always a story, and that's the part I love telling.
 
 Marketing background (including an internship in Tokyo), Le Wagon Data Analytics bootcamp in Barcelona, and a soft spot for wellness, sustainable fashion and creative brands.
 
