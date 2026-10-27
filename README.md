@@ -10,7 +10,7 @@ Marketing background (including an internship in Tokyo), Le Wagon Data Analytics
 - [**Four ways to fill a basket**](https://github.com/mBiamc/greenweez-customer-segmentation) - K-Means customer segmentation of 50,000 orders
 
 ## ✍️ Writing
-- [**Finding the Human in Data**](https://mbiamc.substack.com/p/finding-the-human-in-data) - why I want to be a data storyteller in the age of AI and endless information
+- [**Finding the Human in Data**](https://mbiamc.substack.com/p/finding-the-human-in-data) - an essay on why I want to be a data storyteller in the age of AI and endless information
 
 ## 🛠 Tools
 SQL · Python · BigQuery · Power BI · Looker Studio · dbt · GA4 · Google Sheets
