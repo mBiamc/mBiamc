@@ -2,7 +2,7 @@
 
 I like to call myself a **data storyteller**. What's that, you ask? Well, it means I love looking for the people behind the numbers. Somewhere in all that noise there's always a story, and that's the part I love telling.
 
-Marketing background (including an internship in Tokyo), Le Wagon Data Analytics bootcamp in Barcelona, and a soft spot for wellness, sustainable fashion and creative brands.
+I have a background in marketing (including an internship in Tokyo), did a Data Analytics bootcamp at Le Wagon Barcelona, and a soft spot for wellness, sustainable fashion and creative brands.
 
 ## 📊 Featured projects
 - [**Who Taught You To Like This?**](https://github.com/mBiamc/who-taught-you-to-like-this) - how Spotify's algorithm shapes music culture across 73 countries and 5 decades
