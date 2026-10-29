@@ -1,6 +1,6 @@
 # Hi, I'm Beatriz 👋
 
-I like to call myself a **data storyteller**. What's that, you ask? Well, it means I love looking for the people behind the numbers. Somewhere in all that noise there's always a story, and that's the part I love telling.
+I like to call myself a **data storyteller**. I love looking for the people behind the numbers. Somewhere in all that noise there's always a story, and that's the part I love telling.
 
 I have a background in marketing (including an internship in Tokyo), did a Data Analytics bootcamp at Le Wagon Barcelona, and have a soft spot for wellness, sustainable fashion and creative brands.
 
